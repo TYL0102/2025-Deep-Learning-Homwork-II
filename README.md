@@ -1,2 +1,2 @@
-- **Notion**[https://www.notion.so/Deep-Learning-Homework-II-2d944075d26b8054ba01fdf9d33c7812?source=copy_link](https://www.notion.so/Deep-Learning-Homework-II-2d944075d26b8054ba01fdf9d33c7812?source=copy_link)
-- **GitHub**[https://github.com/TYL0102/2025-Deep-Learning-Homwork-II](https://github.com/TYL0102/2025-Deep-Learning-Homwork-II)
+- **Notion **[https://www.notion.so/Deep-Learning-Homework-II-2d944075d26b8054ba01fdf9d33c7812?source=copy_link](https://www.notion.so/Deep-Learning-Homework-II-2d944075d26b8054ba01fdf9d33c7812?source=copy_link)
+- **GitHub **[https://github.com/TYL0102/2025-Deep-Learning-Homwork-II](https://github.com/TYL0102/2025-Deep-Learning-Homwork-II)
